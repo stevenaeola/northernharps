@@ -1,0 +1,127 @@
+a:link {
+	text-decoration: none;
+	color: #999999;
+}
+a:active { text-decoration: none; color: #000000 }
+a:visited {
+	text-decoration: none;
+	color: #999999;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FFFFFF
+}
+
+body {
+	background-color: #4a1215;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	line-height: 12pt;
+	font-weight: lighter;
+	color: #FFFFFF;
+	letter-spacing: 0.2px;
+	text-align: left;
+	text-decoration: none;
+	padding-left: 60px;
+	padding-right: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-image: url("images/northernharpsback.jpg");
+	background-repeat: repeat-y;
+	background-position: 50px 50px;
+	width: 800px;
+}
+
+img {
+    border: 1px solid #000000;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+
+
+td,th {
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 2px;
+   padding-bottom: 2px;
+   border: 1px solid #999999;
+}
+
+td.layout,th.layout {
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   border-style: none;
+}
+
+td.layout {
+	  font-size: 11px;
+	  vertical-align: top;
+}
+
+.insert {
+	color: black;
+	background-color: white;
+	float: right;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 5px;
+	border:2px solid #999999;
+	minwidth: 200px;
+	font-size: 11px;
+}
+#main {
+margin-left: 220px;
+padding-left: 0px;
+}
+
+#home {
+margin-left: 120px;
+padding-left: 0px;
+}
+
+
+#banner img {
+	padding-right: 5px;
+	border-style: none;
+	height: 55px;
+}
+
+#banner {
+	width: 500px;
+	text-align: left;
+	padding-right:20px;
+	padding-bottom:20px;
+}
+
+#banner td.layout {
+	  width: 90px;
+	  font-size: 12px;
+	  font-variant: small-caps;
+	  letter-spacing: 2px;
+	  vertical-align: top;
+	  border-right:1px solid #ffffff;
+}
+
+img.noborder {
+	     border-style: none;
+}
+
+#menu {
+position: absolute;
+left: 50px;
+width:150px;
+border-right:1px solid #ffffff;
+padding-right: 20px;
+padding-top: 57px;
+padding-bottom: 50px;
+text-align: right;
+	}
+

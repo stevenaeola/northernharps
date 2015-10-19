@@ -1,0 +1,10 @@
+* last year's course ?
+* list of resources: updateable
+
+
+* northern harps home: check with Jen about picture
+
+install:
+* change siteroot
+* change from email address
+

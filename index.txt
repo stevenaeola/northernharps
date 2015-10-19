@@ -1,0 +1,47 @@
+<table class='layout'>
+<tr class='layout'>
+
+
+<td class='layout' width='400'>
+Northern Harps are Jen Morris and Louise Bradley, UK based harpists who each perform live Celtic harp music for private and public functions and events such as wedding ceremonies and wedding receptions, corporate events and dinners. Jen is based in the North West and Louise is based in the North East. 
+
+
+</td>
+
+<td class='layout'>
+This year's harp course is taking place in Brancepeth Castle on 9th-12th August 2015. See the outline of the course, find out more about the venue and book a place.
+
+</td>
+
+</tr>
+
+<tr class='layout'>
+<td class='layout'>
+<a href='harpists/harpist.html'>Find out more about hiring a harpist ...</a>
+</td>
+
+<td class='layout'>
+<a href='courses/'>Find out more about the course ...</a>
+
+</td>
+</tr>
+
+<tr class='layout'>
+
+<td width='400' class='layout'>
+<a href='harpists/harpist.html'><img width='300' src='images/JenMorrisweb.jpg' alt='Jen Morris' class='noborder'/></a></p>
+</td>
+
+<td width='400' class='layout'>
+<a href='courses/'><img width='300' src='images/2013group_teaching300.jpg' alt='Harp Course Group' class='noborder'/></a>
+</td>
+</tr>
+
+<tr class='layout'>
+<td class='layout' colspan='2'>
+Any questions? Drop us a line on <a href='mailto:info@northernharps.co.uk'>info@northernharps.co.uk</a>
+</td>
+</tr>
+
+</table>
+
