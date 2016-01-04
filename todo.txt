@@ -1,0 +1,42 @@
+
+Home
+----
+
+link to youtube
+g
+Harpist
+--------
+
+client side validation of email address on quote request
+
+*booking
+ -parts of ceremony
+ -prices
+- test request booking on site
+
+* testimonials
+- more content
+
+* repertoire: list titles, video and audio clips
+- more content
+
+* photos: carousel
+done?
+
+list of venues?
+
+Lessons
+-------
+
+adults groups
+school groups
+one-to-one
+prices
+workshops
+
+music samples
+
+Courses
+------
+
+as before

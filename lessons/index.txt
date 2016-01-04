@@ -1,0 +1,45 @@
+<div class="row">
+            <div class="col-sm-8">
+<h2>Lessons</h2>
+                <p class='lead'>To find out more about any of Louise's teaching then get in touch by email, facebook, text message or even a good old fashioned phonecall.</p>
+
+            </div>
+            <div class="col-sm-4">
+                <h2>Contact</h2>
+                <address>
+                    <strong>Louise Bradley</strong>
+
+                <address>
+                    <abbr title=‘Telephone’>t:</abbr> 07747 716268
+                    <br>
+                    <abbr title="Email">e:</abbr> <a href=‘mailto:louise@northernharps.co.uk’>louise@northernharps.co.uk</a>
+                    <br>
+                    <abbr title="Facebook"><i class='fa fa-facebook-official'></i></abbr> <a href="https://www.facebook.com/Louise-Bradley-Harpist-356023861081971/">Louise Bradley - Harpist</a>
+                </address>
+            </div>
+</div>
+
+<div class="row">
+            <div class="col-sm-4">
+<hr/>
+                <img class="img-circle img-responsive img-center" src="../images/square/harp_nativity_square.jpg" alt="">
+                <h2>School Groups</h2>
+                <p>Teaching in schools is another of Louise's harping activities, for group sizes up to 15 children. With a fleet of fifteen cardboard harps she can provide all the materials needed for a very different musical experience. Louise also teaches general musicianship and singing to whole classes.</p>
+
+            </div>
+            <div class="col-sm-4">
+<hr/>
+                <img class="img-circle img-responsive img-center" src="../images/square/workshop_auckland_square.jpg" alt="">
+                <h2>Adult groups</h2>
+                <p>Either in  regular weekly sessions or at occasional workshops, it's never too late to start learning the harp. Harps are also available to hire.</p>
+
+            </div>
+
+            <div class="col-sm-4">
+<hr/>
+                <img class="img-circle img-responsive img-center" src="../images/square/brancepeth_church_square.jpg" alt="">
+                <h2>One-to-one</h2>
+                <p>However old you are, nothing helps you to progress better than a one-to-one lesson. Plus practice of course...</p>
+            </div>
+</div>
+

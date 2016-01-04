@@ -1,47 +1,62 @@
-<table class='layout'>
-<tr class='layout'>
+---------------------------------------
+
+<div class="row">
+            <div class="col-sm-8">
+                <h2>The sound of the harp ...</h2>
+                <p class='lead'>... is so beautiful, relaxing and romantic. Louise can make your special day extra special by playing for you and your guests. As a freelance professional harpist she also teaches adults and children in groups and individually.</p>
+
+                <p>
+                    <a class="btn btn-default btn-lg" href="harpists/booking.php">Booking Details &raquo;</a>
+                </p>
+            </div>
+            <div class="col-sm-4">
+                <h2>Contact</h2>
+                <address>
+                    <strong>Louise Bradley</strong>
+
+                <address>
+                    <abbr title=‘Telephone’>t:</abbr> 07747 716268
+                    <br>
+                    <abbr title="Email">e:</abbr> <a href=‘mailto:louise@northernharps.co.uk’>louise@northernharps.co.uk</a>
+                    <br>
+                    <abbr title="Facebook"><i class='fa fa-facebook-official'></i></abbr> <a href="https://www.facebook.com/Louise-Bradley-Harpist-356023861081971/">Louise Bradley - Harpist</a>
+                </address>
+            </div>
+</div>
 
 
-<td class='layout' width='400'>
-Northern Harps are Jen Morris and Louise Bradley, UK based harpists who each perform live Celtic harp music for private and public functions and events such as wedding ceremonies and wedding receptions, corporate events and dinners. Jen is based in the North West and Louise is based in the North East. 
 
+<div class="row">
+            <div class="col-sm-4">
+<hr/>
+                <img class="img-circle img-responsive img-center" src="images/square/louise_through_strings_square.jpg" alt="">
+                <h2><a href="harpists/">Harpist</a></h2>
+                <p>Louise plays for weddings and a bunch of other stuff</p>
 
-</td>
+<p><a href="harpists/">Find out more</a></p>
+            </div>
+            <div class="col-sm-4">
+<hr/>
+                <img class="img-circle img-responsive img-center" src="images/square/school_group_square.jpg" alt="">
+                <h2><a href="lessons/">Lessons</a></h2>
+                <p>In one-to-one teaching, and for groups of adults or children, Louise passes on her expertise so that the joy of playing the harp can be shared.</p>
+<p><a href="lessons/">Find out more about lessons</a></p>
+            </div>
 
-<td class='layout'>
-This year's harp course is taking place in Brancepeth Castle on 9th-12th August 2015. See the outline of the course, find out more about the venue and book a place.
+            <div class="col-sm-4">
+<hr/>
+                <img class="img-circle img-responsive img-center" src="images/square/brancepeth_2015_square.jpg" alt="">
+                <h2><a href="courses/">Courses</a></h2>
+                <p>Louise also teaches on our annual summer course, along with Wendy Stewart, world-renowned performer and former principal tutor of Scottish Harp at the Royal Scottish Academy of Music and Drama.</p>
+<p><a href="courses/">Find out more about the course</a></p>
+            </div>
+</div>
 
-</td>
+<div class="row">
+<hr>
+<div class="col_sm_12">
+<iframe class="img-responsive center-block" src="https://www.youtube.com/embed/390YiE5U0vg" frameborder="0" allowfullscreen></iframe>
 
-</tr>
-
-<tr class='layout'>
-<td class='layout'>
-<a href='harpists/harpist.html'>Find out more about hiring a harpist ...</a>
-</td>
-
-<td class='layout'>
-<a href='courses/'>Find out more about the course ...</a>
-
-</td>
-</tr>
-
-<tr class='layout'>
-
-<td width='400' class='layout'>
-<a href='harpists/harpist.html'><img width='300' src='images/JenMorrisweb.jpg' alt='Jen Morris' class='noborder'/></a></p>
-</td>
-
-<td width='400' class='layout'>
-<a href='courses/'><img width='300' src='images/2013group_teaching300.jpg' alt='Harp Course Group' class='noborder'/></a>
-</td>
-</tr>
-
-<tr class='layout'>
-<td class='layout' colspan='2'>
-Any questions? Drop us a line on <a href='mailto:info@northernharps.co.uk'>info@northernharps.co.uk</a>
-</td>
-</tr>
-
-</table>
+</div>
+</div>
 

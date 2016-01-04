@@ -1,0 +1,11 @@
+Testimonials
+============
+
+<blockquote class='blockquote-reverse'><p>We wanted to write to you to express our thanks</p>
+<footer>A and B</footer>
+</blockquote>
+
+<blockquote  class='blockquote-reverse'><p>A massive thank you for making our wedding day so absolutely perfect.
+I was overjoyed with being able to have the ceremony outside and your music was unbelievably beautiful, 
+a lot of my friends and family have commented on how it made the ceremony so romantic, precisely what I wanted.</p>
+<footer>Donna and Richard</footer></blockquote>
