@@ -1,0 +1,52 @@
+---------------------------------------
+
+<div class="row">
+            <div class="col-sm-12">
+                <h2>Weddings, Parties, Events</h2>
+                <p>Playing for weddings and other occasions,  a wide variety of music - see the <a href='repertoire.php'>repertoire page</a> for some examples. Louise performs throughout North East England, including County Durham, Northumberland and Teesside. </p>
+            </div>
+</div>
+
+
+
+<div class="row">
+            <div class="col-sm-6">
+<hr/>
+                <img class="img-circle img-responsive img-center" src="../images/square/booking_form_square.jpg" alt="booking form">
+                <h2><a href="booking.php">Booking Details</a></h2>
+                <p>When and where would you like Louise to play? How much would it cost? Request a quote for your big day.</p>
+<p> <a href="booking.php">Find out more</a></p>
+            </div>
+
+
+<div class="row">
+            <div class="col-sm-6">
+<hr/>
+                <img class="img-circle img-responsive img-center" src="../images/square/louise_hands_square.jpg" alt="booking form">
+                <h2><a href="repertoire.php">Repertoire</a></h2>
+                <p>Louise plays a wide range of music, from pop to classical and from folk to jazz. You can even request to have your special piece arranged for harp if it's not already on the list.</p>
+<p><a href="repertoire.php">Find out more about the repertoire, see and hear samples of Louise playing.</a></p>
+            </div>
+
+
+</div>
+
+            <div class="col-sm-6">
+<hr/>
+                <img class="img-circle img-responsive img-center" src="../images/square/thank_you_square.jpg" alt="thank you cards">
+                <h2><a href="testimonials.php">Testimonials</a></h2>
+                <blockquote><p>A massive thank you for making our wedding day so absolutely perfect 
+I was overjoyed with being able to have the ceremony outside and your music was unbelievably beautiful, a lot of my friends and family have commented on how it made the ceremony so romantic, precisely what I wanted.</p>
+<footer>Donna and Richard</footer></blockquote>
+<p><a href='testimonials.php'>Read more testimonials</a></p>
+            </div>
+
+            <div class="col-sm-6">
+<hr/>
+                <img class="img-circle img-responsive img-center" src="../images/square/livvy_levers_square.jpg" alt="thank you cards">
+                <h2><a href="photos.php">Photographs</a></h2>
+<p><a href='photos.php'>See more photographs</a></p>
+            </div>
+
+</div>
+

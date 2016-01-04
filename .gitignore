@@ -17,6 +17,11 @@
 *.tar
 *.zip
 
+# Image sources
+########################
+
+*.xcf
+
 # OS generated files #
 ######################
 .DS_Store
@@ -26,3 +31,5 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+localise.php

@@ -1,0 +1,166 @@
+<div class="row">
+
+    <nav class="col-sm-3 bs-docs-sidebar hidden-xs">
+        <div style="position:fixed">
+<ul class="nav nav-stacked fixed" id="sidebar">
+    <li>
+        <a href="#modern">Modern Classics</a>
+        <ul class="nav nav-stacked" >
+            <li><a href="#modern_list">Repertoire List</a></li>
+            <li><a href="#modern_video">Video clips</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="#classical">Classical</a>
+        <ul class="nav nav-stacked" >
+            <li><a href="#classical_list">Repertoire List</a></li>
+            <li><a href="#classical_video">Video clips</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="#trad">Traditional/Folk</a>
+        <ul class="nav nav-stacked" >
+            <li><a href="#trad_list">Repertoire List</a></li>
+            <li><a href="#trad_video">Video clips</a></li>
+        </ul>
+    </li>
+</ul>
+        </div> <!-- .fixed -->
+    </nav> <!-- .col-sm-3 -->
+
+<div class="col-sm-9">
+<h1>Repertoire</h1>
+<p class='lead'>This is just an example of my most current repertoire – special requests can be catered for so if you don’t see your favourite song or piece then just ask!</p>
+
+
+<section id="modern" class="group">
+<h3>Modern Classics/Contemporary</h3>
+<div id='modern_list' class="subgroup">
+<h4>Repertoire List</h4>
+
+<table class="table table-striped table-condensed">
+<tr><td>Angels</td><td>Robbie Williams</td></tr>
+<tr><td>And I Love Her <br><audio src="../media/AndILoveHer.mp3" controls></audio></td><td>Lennon/McCartney</td></tr>
+<tr><td>Ave Maria</td><td>Beyonce</td></tr>
+<tr><td>Beautiful</td><td>Christina Aguilera</td></tr>
+<tr><td>Can You Feel The Love Tonight</td><td>Elton John</td></tr>
+<tr><td>Cavatina (Deerhunter)</td><td>S. Myers/J. Williams</td></tr>
+<tr><td>Come Away With Me</td><td>Norah Jones</td></tr>
+<tr><td>Crazy For You</td><td>Madonna</td></tr>
+<tr><td>Endless Love</td><td>Lionel Ritchie</td></tr>
+<tr><td>Fields of Gold</td><td>Sting  </td></tr>
+<tr><td>Have I told You Lately</td><td>Rod Stewart</td></tr>
+<tr><td>Here, There and Everywhere</td><td>Beatles</td></tr>
+<tr><td>Half the World Away</td><td>Oasis</td></tr>
+<tr><td>I Don’t Want To Miss A Thing</td><td>Aerosmith</td></tr>
+<tr><td>I Dreamed a Dream (Les Miserables)</td><td></td></tr>
+<tr><td>I’m Yours</td><td>Jason Mraz</td></tr>
+<tr><td>Kissing You</td><td>Des’ree</td></tr>
+<tr><td>Memories</td><td>A. Lloyd-Webber arr I. Meiras</td></tr>
+<tr><td>My Heart Will Go On (Titanic)</td><td>James Horner </td></tr>
+<tr><td>Moon River</td><td>Mancini/Mercer</td></tr>
+<tr><td>One Day Like This</td><td>Elbow</td></tr>
+<tr><td>Right Here Waiting</td><td>Richard Marx</td></tr>
+<tr><td>Rule The World</td><td>Take That</td></tr>
+<tr><td>Rejoice</td><td>Katherine Jenkins</td></tr>
+<tr><td>Show Me Heaven (Days of Thunder)</td><td></td></tr>
+<tr><td>Songbird</td><td>Eva Cassidy</td></tr>
+<tr><td>She’s the One</td><td>Robbie Williams</td></tr>
+<tr><td>Somewhere over the Rainbow</td><td>Eva Cassidy</td></tr>
+<tr><td>The Long and Winding Road</td><td>Lennon/McCartney</td></tr>
+<tr><td>To Make You Feel My Love</td><td>Dylan and Adele</td></tr>
+<tr><td>Unchained Melody</td><td>Righteous Brothers</td></tr>
+<tr><td>When I Fall In Love</td><td>Various</td></tr>
+<tr><td>You Look Wonderful Tonight</td><td>Eric Clapton</td></tr>
+<tr><td>Your Song</td><td>Elton John</td></tr>
+</table>
+</div> <!-- .subgroup -->
+<div id="modern_video" class="subgroup">
+<h4>Video clips</h4>
+<iframe src="https://www.youtube.com/embed/9_wgJvqThQc" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/AF_gGZBoBbc" frameborder="0" allowfullscreen></iframe>
+</div> <!-- .subgroup -->
+</section> <!-- .group -->
+
+<section id="classical" class="group">
+<h3>Classical</h3>
+<div id='classical_list' class="subgroup">
+<h4>Repertoire List</h4>
+<table class="table table-striped table-condensed">
+<tr><td>Wedding March</td><td>Mendelssohn</td></tr>
+<tr><td>Bridal Chorus from Lohengrin</td><td>Wagner</td></tr>
+<tr><td>Prelude in C</td><td>Bach</td></tr>
+<tr><td>Arrival of the Queen of Sheba</td><td>Handel</td></tr>
+<tr><td>Purify My Heart</td><td>Hymn</td></tr>
+<tr><td>Moonlight Sonata</td><td>Beethoven</td></tr>
+<tr><td>Various Nocturnes and Etudes</td><td>Chopin</td></tr>
+<tr><td>Jesu Joy of Man’s Desiring</td><td>Bach</td></tr>
+<tr><td>Largo in G</td><td>Handel</td></tr>
+<tr><td>Lullaby</td><td>Schubert</td></tr>
+<tr><td>Pachelbel’s Canon</td><td>Pachelbel</td></tr>
+<tr><td>Prelude in A</td><td>Chopin</td></tr>
+<tr><td>Jeg Ser Deg Sote Lam</td><td>trad Norwegian hymn</td></tr>
+<tr><td>Hornpipe (from Water Music)</td><td>Handel</td></tr>
+<tr><td>O for the Wings of a Dove</td><td>Mendelssohn</td></tr>
+<tr><td>Clair De Lune</td><td>Debussy      </td></tr>
+<tr><td>Trumpet Voluntary</td><td>Purcell</td></tr>
+<tr><td>Flower Duet</td><td>Delibes</td></tr>
+<tr><td>Pathetique Sonata</td><td>Beethoven</td></tr>
+<tr><td>Pie Jesu</td><td>A. Lloyd-Webber</td></tr>
+<tr><td>Chaconne</td><td>Clarke</td></tr>
+</table>
+</div> <!-- .subgroup -->
+<div id="classical_video" class="subgroup">
+<h4>Video clips</h4>
+<iframe src="https://www.youtube.com/embed/0Hsg1fl86Lk" frameborder="0" allowfullscreen></iframe>
+</div>
+</section>
+
+<section id="trad" class="group">
+<h3>Traditional</h3>
+<div id='trad_list' class="subgroup">
+<h4>Repertoire List</h4>
+<table class="table table-striped table-condensed">
+<tr><td>Bethany’s</td><td>trad</td></tr>
+<tr><td>Barvais Moor</td><td>W. Stewart</td></tr>
+<tr><td>Bridget Cruise</td><td>trad</td></tr>
+<tr><td>Cairn Water</td><td>W. Stewart</td></tr>
+<tr><td>Markellie Waltz</td><td>W. Stewart</td></tr>
+<tr><td>Fires at Midnight</td><td>W. Stewart</td></tr>
+<tr><td>Greensleeves</td><td>trad arr D. Bouchaud</td></tr>
+<tr><td>Glen Cairn</td><td>W. Stewart</td></tr>
+<tr><td>I am Asleep</td><td>trad arr J. Bradley</td></tr>
+<tr><td>Jean Stewart of Moniaive</td><td>W. Stewart</td></tr>
+<tr><td>Kate Dalrymple</td><td>trad arr W. S.</td></tr>
+<tr><td>Lady Elizabeth Cole’s Reel</td><td>trad</td></tr>
+<tr><td>Logan Water</td><td>trad</td></tr>
+<tr><td>Laura Bhissa Water</td><td>Alison Kinnaird</td></tr>
+<tr><td>Love Lie Near Me</td><td>trad arr W. S.</td></tr>
+<tr><td>Loch Roag</td><td></td></tr>
+<tr><td>Lindsey Grace Johnson</td><td>C. Hewat</td></tr>
+<tr><td>Marnie Swanson</td><td>Andy Thorburn arr W. S.</td></tr>
+<tr><td>Mazurka Du Morvan</td><td>trad French arr W. S.	</td></tr>
+<tr><td>Monday Morning Reel</td><td>P. Cunningham</td></tr>
+<tr><td>24/7</td><td>S. Bradley</td></tr>
+<tr><td>My Love’s Bonny</td><td>trad</td></tr>
+<tr><td>Quimper Waltz</td><td></td></tr>
+<tr><td>The Swan</td><td>C. McKay arr J.Bradley</td></tr>
+<tr><td>The Subject of My Song</td><td>trad</td></tr>
+<tr><td>Shalom Aleichem</td><td></td></tr>
+<tr><td>Sands of Hosta</td><td>A. Robertson</td></tr>
+<tr><td>Helene</td><td>Anon</td></tr>
+<tr><td>Ingrids Jig</td><td>trad arr K. MacGregor  </td></tr>
+<tr><td>Wild Mountain Thyme</td><td>trad arr S. Woods</td></tr>
+</table>
+</div> <!-- .subgroup -->
+<div id="trad_video" class="subgroup">
+<h4>Video clips</h4>
+<iframe src="https://www.youtube.com/embed/390YiE5U0vg" frameborder="0" allowfullscreen></iframe>
+</div>
+</section>
+
+</div> <!-- .col-xs-9 -->
+
+</div> <!-- .row -->
+
+
