@@ -19,18 +19,10 @@ function pageTop($title){
   $dir=array_pop($urlbits);
   switch($dir){
   case "courses":
-    $page->menuitems=array(
-		'index.php'=>'HARP COURSE',
-		'outline.php'=>'OUTLINE',
-		'venue.php'=>'VENUE',
-		'accommodation.php'=>'ACCOMMODATION',
-		//		'eating.php'=>'EATING',
-		'booking.php'=>'BOOKING',
-		'resources.php'=>'RESOURCES',
-		'../'=>'NORTHERN HARPS');
     $page->banner="Northern Harps Courses";
-    $page->imgs = [];
+    $page->imgs = ["2013learning_harp_h400.jpg"];
     break;
+    
   case "lessons":
     $page->banner="Lessons";
     $page->imgs = ["harps_brancepeth_chapel_h400"];

@@ -1,7 +1,7 @@
 How to Book
 ===========
 
-The cost of the course is &pound;200.  This includes tea, coffee and snacks, lunch and evening entertainments.
+The cost of the course is &pound;210.  This includes tea, coffee and snacks, lunch and evening entertainments.
 
 There is a non-refundable deposit of &pound;50 to secure your place on the
 course.  This can be paid by cheque or by paypal.  Please fill out
@@ -13,31 +13,82 @@ The remainder of the fee will be payable two weeks before the course.
 Any questions: just drop us a line at
 <courses@northernharps.co.uk>
 
-<form action='bookingthanks.php' method='post'>
+<form action='bookingthanks.php' method='post' class='form-horizontal'>
 <?php extract($_POST);?>
-<table>
-<tr><td>Name *</td><td><input type='text' name='name' size='50' value='<?php print $name;?>'></td></tr>
-<tr><td>I am over 16 years of age *</td><td><input type='checkbox' name='confirmage' <?php if($confirmage){print "checked='checked'";}?>></td></tr>
-<tr><td>Email *</td><td><input type='text' name='email' size='50'  value='<?php print $email;?>'></td></tr>
-<tr><td>Telephone</td><td><input type='text' name='tel' size='20'  value='<?php print $tel;?>'></td></tr>
-<tr><td>Address *</td><td><textarea cols='50' rows='6' name='address'><?php print $address;?></textarea></td></tr>
-<tr><td>Level of harp playing</td><td>
-<input type='radio' name='level' value='beg/int'>Beginner/Intermediate<br/>
-<input type='radio' name='level' value='int/adv'>Intermediate/Advanced<br/>
-</td></tr>
-<tr><td>Special requirements (e.g. dietary or access
-arrangements)</td><td><textarea cols='50' rows='6'
-name='special'><?php print $special;?></textarea></td></tr>
-<tr><td>Payment method *</td><td>
-<input type='radio' name='payment' value='paypal' <?php if($payment=="paypal"){print "checked='checked'";}?>>Paypal<br/>
-<input type='radio' name='payment' value='cheque'  <?php if($payment=="cheque"){print "checked='checked'";}?>>Cheque<br/>
-</td></tr>
-<tr><td>How did you hear about the course?</td>
-<td><textarea cols='50' rows='6'
-name='howdidyouhear'><?php print $howdidyouyear;?></textarea></td></tr>
-</table>
+
+<div class="form-group">
+  <label for="inputName" class="col-sm-2 control-label">Name *</label>
+  <div class="col-sm-10">
+    <input type='text' id="inputName"  class="form-control" name='name' value='<?php print $name;?>'>
+  </div>
+</div>
+
+<div class="form-group">
+  <label for="inputAge" class="col-sm-2 control-label">I am over 16 years of age *</label>
+  <div class="col-sm-10">
+    <input id="inputAge" type='checkbox'  class="form-control" name='confirmage' <?php if($confirmage){print "checked='checked'";}?>>
+  </div>
+</div>
+
+<div class="form-group">
+  <label for="inputEmail" class="col-sm-2 control-label">Email *</label>
+  <div class="col-sm-10">
+    <input id="inputEmail" class="form-control" type='email' name='email' value='<?php print $email;?>'>
+  </div>
+</div>
+
+<div class="form-group">
+  <label for="inputTel" class="col-sm-2 control-label">Telephone</label>
+  <div class="col-sm-10">
+    <input id="inputTel" class="form-control" type='text' name='tel' value='<?php print $tel;?>'>
+  </div>
+</div>
+
+<div class="form-group">
+  <label for="inputAddr" class="col-sm-2 control-label">Address *</label>
+  <div class="col-sm-10">
+    <textarea id="inputAddr"  class="form-control" rows='6' name='address'><?php print $address;?></textarea>
+  </div>
+</div>
+
+<div class="form-group">
+  <label class="col-sm-2 control-label">Level of harp playing</label>
+  <div class="col-sm-10">
+    <input id="inputl1" type='radio'  name='level' value='beg/int'> <label for="inputl1">Beginner/Intermediate</label><br/>
+    <input id="inputl2" type='radio'  name='level' value='int/adv'> <label for="inputl2">Intermediate/Advanced</label><br/>
+  </div>
+</div>
+
+<div class="form-group">
+  <label for="inputSpecial" class="col-sm-2 control-label">Special requirements (e.g. dietary or access
+arrangements)</label>
+  <div class="col-sm-10">
+    <textarea id="inputSpecial"  class="form-control" rows='6' name='special'><?php print $special;?></textarea>
+  </div>
+  </div>
+
+<div class="form-group">
+  <label class="col-sm-2 control-label">Payment method *</label>
+  <div class="col-sm-10">
+    <input id="inputPayment1" type='radio' name='payment' value='paypal' <?php if($payment=="paypal"){print "checked='checked'";}?>> <label for="inputPayment1">Paypal</label><br/>
+    <input id="inputPayment2" type='radio' name='payment' value='cheque'  <?php if($payment=="cheque"){print "checked='checked'";}?>> <label for="inputPayment2">Cheque</label><br/>
+  </div>
+</div>
+
+<div class="form-group">
+  <label for="inputHow" class="col-sm-2 control-label">How did you hear about the course?</label>
+  <div class="col-sm-10">
+    <textarea id="inputHow"  class="form-control" rows='6' name='howdidyouhear'><?php print $howdidyouyear;?></textarea>
+  </div>
+</div>
+
 * required fields<br/>
-<input type='submit' value='Make Booking'/>
+<div class="form-group">
+  <div class="col-sm-10 col-sm-offset-2">
+    <input type='submit' value='Make Booking'/>
+  </div>
+</div>
+
 </form>
 
 

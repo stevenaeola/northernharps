@@ -1,5 +1,3 @@
-Accommodation
-=============
 
 There is a limited amount of self-catering accommodation available in the castle, [contact us](mailto:courses@northernharps.co.uk) for details.
 
@@ -9,6 +7,7 @@ Bed and Breakfast
 * [Nafferton Farm, Brancepeth](http://www.tripadvisor.co.uk/Hotel_Review-g3566542-d1880314-Reviews-Nafferton_Farm_Bed_Breakfast-Brancepeth_County_Durham_England.html) (2 miles)
 * [Bay Horse Inn, Brandon Village](http://www.tripadvisor.co.uk/Hotel_Review-g667211-d666042-Reviews-The_Bay_Horse_Residential-Brandon_County_Durham_England.html) (2 miles)
 * [Victoria Inn, Durham](http://www.victoriainn-durhamcity.co.uk/pages/accommodation.htm) (5 miles)
+* [Burnhopeside Hall, Lanchester](http://www.tripadvisor.co.uk/Hotel_Review-g3175047-d7908156-Reviews-Burnhopeside_Hall-Lanchester_County_Durham_England.html) (10 miles)
 
 Several other of the [university colleges](http://www.dur.ac.uk/event.durham/tourism/) offer bed and breakfast acoommodation.
 
@@ -35,4 +34,3 @@ Camping
 
 Camping is available at the castle, just ask us for details.
 
-Perhaps you would like [to book](booking.php).

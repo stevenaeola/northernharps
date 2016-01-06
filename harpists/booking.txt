@@ -14,9 +14,8 @@ Prices
 
 Request a quote
 ----------------
-
-<form action="quoterequest.php" method="post">
 <!--
+<form action="quoterequest.php" method="post">
   <div class="form-group">
     <label for="inputName">Your name</label>
     <input class="form-control" id="inputName" name="inputName" placeholder="Name">
@@ -55,7 +54,6 @@ Request a quote
     <label for="inputDescription">Description</label>
     <textarea class="form-control" id="inputDescription" name="inputDescription" placeholder="Description" rows="4"></textarea>
   </div>
-
-<button type="submit" class="btn btn-default">Submit quote request</button>
 -->
+<button type="submit" class="btn btn-default">Submit quote request</button>
  </form>

@@ -1,34 +1,97 @@
-Harp Course
-===========
+Harp Course 2016
+================
 
-<div class='insert'>
-<a href='http://wendystewart.co.uk/'><img align='center' width='150' alt='Wendy Stewart, our tutor for the course' src='../images/wendy_100.jpg'></a>
-</div>
+<hr class="featurette-divider">
 
-Northern Harps are running a four day clarsach course at Brancepth Castle, Durham, led by Wendy Stewart on the 9th-12th August 2015
-(Sunday to Wednesday). This is the eighth year we have run this course,
-and the third year that we have had the course at [Brancepeth Castle](venue.php).
+<!-- First Featurette -->
+<div class="featurette" id="about">
+           <figure class="pull-right"> <img class="featurette-image img-circle img-responsive pull-right" src="images/Wendy_Stewart_credit_Kim_Ayres_300.jpg" alt="Wendy Stewart (photo by Kim Ayres)">
+	   <figcaption><small>Photo by <a href='http://www.kimayres.co.uk/'>Kim Ayres</a></small></figcaption>
+	   </figure>
+            <h2 class="featurette-heading">6th-9th August 2016 Brancepeth Castle
+                <span class="text-muted">with Wendy Stewart and Louise Bradley</span>
+            </h2>
+            <p class="lead" markdown='1'>Northern Harps are running a four day clarsach course at Brancepth Castle, Durham, led by Wendy Stewart with Louise Bradley on the 6th-9th August 2016 (Saturday to Tuesday). This is the ninth year we have run this course, and the fourth year that we have had the course at [Brancepeth Castle](http://en.wikipedia.org/wiki/Brancepeth_Castle).</p>
 
+<div markdown='1'>
 Wendy is a performer, teacher and writer of some of the best harp music in Scotland today.  She performs and teaches the clarsach internationally, as well as recording and publishing her compositions.  More details about Wendy can be found at [her website](http://www.wendystewart.co.uk).
 
-The course will take place at [Brancepeth Castle](venue.php) in the beautiful village of Brancepeth (where else?) only 5 miles from the historic city of Durham. 
+The course will take place at [Brancepeth Castle](http://en.wikipedia.org/wiki/Brancepeth_Castle) in the beautiful village of Brancepeth (where else?) only 5 miles from the historic city of Durham. 
 
-The course will cost &pound;200, which will include four days of teaching, lunches and refreshments.
+The course will cost &pound;210, which will include four days of teaching, lunches and refreshments.
 
 We will also be running social events, so please bring family, friends and other instruments.
 
 Find more about 
 
-* [course outline](outline.php)
-* [venue](venue.php)
-* [accommodation](accommodation.php)
-* [booking](booking.php)
-* [resources](resources.php)
+<div markdown='1' id='nav'>
 
-You can also use the menu at the top left to navigate around the site.
+* [course outline](#outline)
+* [venue](#venue)
+* [accommodation](#accommodation)
+* [booking](#booking)
+
+</div>
 
 Any questions: just drop us a line at
 <courses@northernharps.co.uk>
 
-![Wendy teaching at Brancepeth in 2013](../images/2013learning_harp_600.jpg)
+</div>
+</div>
+
+<hr class="featurette-divider">
+
+<!-- Second Featurette -->
+<div class="featurette" id="outline">
+            <img class="featurette-image img-circle img-responsive pull-left" src="images/2013salad_300.jpg" alt="salad lunch">
+            <h2 class="featurette-heading">Course Outline</h2>
+            <p class="lead" markdown='1'></p>
+
+<div markdown='1'>
+<?php include "outline.txt";?>
+</div>
+</div> <!-- .featurette -->
+
+<hr class="featurette-divider">
+
+<!-- Third Featurette -->
+<div class="featurette" id="venue">
+            <img class="featurette-image img-circle img-responsive pull-right" src="images/brancepeth_castle_ext_300.jpg">
+            <h2 class="featurette-heading">Venue</h2>
+            <p class="lead" markdown='1'></p>
+
+<div markdown='1'>
+<?php include "venue.txt";?>
+</div>
+</div> <!-- .featurette -->
+
+<hr class="featurette-divider">
+
+<!-- Fourth Featurette -->
+<div class="featurette" id="accommodation">
+            <img class="featurette-image img-circle img-responsive pull-left" src="images/2013castle_gate_300.jpg">
+            <h2 class="featurette-heading">Accommodation</h2>
+            <p class="lead" markdown='1'></p>
+
+<div markdown='1'>
+<?php include "accommodation.txt";?>
+</div>
+</div> <!-- .featurette -->
+
+<hr class="featurette-divider">
+
+<!-- Fifth Featurette -->
+<div class="featurette" id="booking">
+     		<i class="fa fa-calendar-check-o fa-5x pull-right featurette-image"></i>
+		<!--
+            <img class="featurette-image img-circle img-responsive pull-right" src="">
+	    -->
+            <h2 class="featurette-heading">Booking</h2>
+            <p class="lead" markdown='1'></p>
+
+<div markdown='1'>
+<?php include "booking.txt";?>
+</div>
+</div> <!-- .featurette -->
+
 
