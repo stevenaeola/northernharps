@@ -1,11 +1,23 @@
 Testimonials
 ============
 
-<blockquote class='blockquote-reverse'><p>We wanted to write to you to express our thanks</p>
-<footer>A and B</footer>
+<blockquote  class='blockquote-reverse'><p>We wanted to write to you to express our thanks for playing on our wedding day. The music you played was absolutely stunning and truly made our wedding day even more special, so thank you. Our guests also commented on how lovely the harp sounded, especially during the ceremony. It has been really nice watching our wedding video back and once again being reminded of the gorgeous music you played. Many thanks once again.</p>
+<footer>Sarah & Nick Roberts</footer></blockquote>
+
+<blockquote class='blockquote-reverse'><p>Dear Louise, Just a note to say thank you for playing so beautifully for Kristy + Michael’s wedding - they were really happy with the music.</p>
+<footer>Judy</footer>
 </blockquote>
 
 <blockquote  class='blockquote-reverse'><p>A massive thank you for making our wedding day so absolutely perfect.
 I was overjoyed with being able to have the ceremony outside and your music was unbelievably beautiful, 
 a lot of my friends and family have commented on how it made the ceremony so romantic, precisely what I wanted.</p>
 <footer>Donna and Richard</footer></blockquote>
+
+<blockquote  class='blockquote-reverse'><p>Thank you so much for making our day so special!</p>
+<footer>Emma, Mal & Callum</footer></blockquote>
+
+<blockquote  class='blockquote-reverse'><p>Thank you very much for the great job you did keeping our guests entertained on 7th May. They have all commented on how well you played and everyone really enjoyed listening.</p>
+<footer>Victoria and Sean</footer></blockquote>
+
+<blockquote  class='blockquote-reverse'><p>A huge thank-you from us both for helping to make our day so special. Thank-you also for your quick thinking when the music [CD] stopped!! You are a star!</p>
+<footer>Roger + Gillian</footer></blockquote>

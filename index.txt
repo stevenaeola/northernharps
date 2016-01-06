@@ -3,7 +3,7 @@
 <div class="row">
             <div class="col-sm-8">
                 <h2>The sound of the harp ...</h2>
-                <p class='lead'>... is so beautiful, relaxing and romantic. Louise can make your special day extra special by playing for you and your guests. As a freelance professional harpist she also teaches adults and children in groups and individually.</p>
+                <p class='lead'>... is beautiful, relaxing and romantic. Louise can make your special day extra special by playing for you and your guests. Based in Durham she performs throughout the North East of England as a freelance professional harpist. She also teaches adults and children in groups and individually.</p>
 
                 <p>
                     <a class="btn btn-default btn-lg" href="harpists/">How to book Louise to play at your event &raquo;</a>
@@ -31,7 +31,7 @@
 <hr/>
                 <img class="img-circle img-responsive img-center" src="images/square/louise_through_strings_square.jpg" alt="">
                 <h2><a href="harpists/">Harpist</a></h2>
-                <p>Louise plays for weddings and a bunch of other stuff</p>
+                <p>Louise plays for weddings, balls and other occasions as well as concerts and recitals both as a solo performer and within a larger group</p>
 
 <p><a href="harpists/">Find out more</a></p>
             </div>

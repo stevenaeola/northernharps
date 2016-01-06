@@ -8,36 +8,23 @@ Harpist
 
 header image doesn't go to edge on mobile
 repertoire text no left padding on mobile
-client side validation of email address on quote request
 
 *booking
- -parts of ceremony
- -prices
+
 - test request booking on site
 
 * testimonials
-- more content
 
 * repertoire: list titles, video and audio clips
-- more content
 - header image doesn't go to edge on mobile
 - after first set of video clips doesn't reach RH edge on mobile
 - navigator clashes with footer
 
 * photos
 
-done?
-
-list of venues?
 
 Lessons
 -------
-
-adults groups
-school groups
-one-to-one
-prices?
-workshops
 
 music samples
 
@@ -45,4 +32,4 @@ Courses
 ------
 
 - booking form server
-- bus 46 timetable link
+

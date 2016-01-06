@@ -3,7 +3,7 @@
 <div class="row">
             <div class="col-sm-12">
                 <h2>Weddings, Parties, Events</h2>
-                <p>Playing for weddings and other occasions,  a wide variety of music - see the <a href='repertoire.php'>repertoire page</a> for some examples. Louise performs throughout North East England, including County Durham, Northumberland and Teesside. </p>
+                <p>Playing for weddings and other occasions and with a wide variety of music to choose from - see the <a href='repertoire.php'>repertoire page</a> for some examples - Louise performs throughout North East England, including County Durham, Northumberland and Teesside. </p>
             </div>
 </div>
 
