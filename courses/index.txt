@@ -30,6 +30,7 @@ Find more about
 * [venue](#venue)
 * [accommodation](#accommodation)
 * [booking](#booking)
+* [photos](#photos)
 
 </div>
 
@@ -45,7 +46,6 @@ Any questions: just drop us a line at
 <div class="featurette" id="outline">
             <img class="featurette-image img-circle img-responsive pull-left" src="images/2013salad_300.jpg" alt="salad lunch">
             <h2 class="featurette-heading">Course Outline</h2>
-            <p class="lead" markdown='1'></p>
 
 <div markdown='1'>
 <?php include "outline.txt";?>
@@ -58,7 +58,6 @@ Any questions: just drop us a line at
 <div class="featurette" id="venue">
             <img class="featurette-image img-circle img-responsive pull-right" src="images/brancepeth_castle_ext_300.jpg">
             <h2 class="featurette-heading">Venue</h2>
-            <p class="lead" markdown='1'></p>
 
 <div markdown='1'>
 <?php include "venue.txt";?>
@@ -71,7 +70,6 @@ Any questions: just drop us a line at
 <div class="featurette" id="accommodation">
             <img class="featurette-image img-circle img-responsive pull-left" src="images/2013castle_gate_300.jpg">
             <h2 class="featurette-heading">Accommodation</h2>
-            <p class="lead" markdown='1'></p>
 
 <div markdown='1'>
 <?php include "accommodation.txt";?>
@@ -87,7 +85,6 @@ Any questions: just drop us a line at
             <img class="featurette-image img-circle img-responsive pull-right" src="">
 	    -->
             <h2 class="featurette-heading">Booking</h2>
-            <p class="lead" markdown='1'></p>
 
 <div markdown='1'>
 <?php include "booking.txt";?>
@@ -95,3 +92,13 @@ Any questions: just drop us a line at
 </div> <!-- .featurette -->
 
 
+<hr class="featurette-divider">
+
+<!-- sixth Featurette -->
+<div class="featurette" id="photos">
+            <h2 class="featurette-heading">Photos</h2>
+
+<div markdown='1'>
+<?php include "photos.txt";?>
+</div>
+</div> <!-- .featurette -->

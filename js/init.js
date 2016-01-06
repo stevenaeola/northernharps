@@ -10,8 +10,9 @@ $('.slick_carousel img').addClass("img-responsive center-block");
   $('.slick_carousel').slick({
     adaptiveHeight: true,
     fade: true,
+    speed: 500,
     autoplay: true,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 3000,
 	      dots: true,
 	      swipeToSlide: true,
 	      //    prevArrow: "<i class='fa fa-arrow-circle-left'></i>",

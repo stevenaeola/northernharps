@@ -70,27 +70,24 @@ EOT;
 $message.=<<<EOT
 
 
-Please send a cheque for 50.00 payable to Jennifer Morris at
+Please send a cheque for 50.00 payable to Louise Bradley at
 
-    Hawthorn Cottage
-    1B Wrenshot Lane
-    High Legh
-    Knutsford
-    Cheshire
-    WA16 6NQ
-
+       Annfield House
+       Front Street
+       Langley Park
+       Durham
+       DH7 9XE
+       
 Once we receive your deposit we'll let you know.
 
-Thanks from Jen and Louise.
+Thanks from Louise.
 EOT;
 	  } //end switch
 
       print Markdown($message);
-    mail($_POST['email'],"Esh Harp Course: Thanks for booking",$message,"From: $ouremail");
+    mail($_POST['email'],"Brancepeth Harp Course: Thanks for booking",$message,"From: $ouremail");
     
    print "<p>We've also sent these instructions to your email address, but there's no need to pay twice!</p>\n";
-
-   print Markdown("In the mean time you might like to look at the [harp resources](resources.php) we are building up.\n");
 
   pageBottom();
   

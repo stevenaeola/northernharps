@@ -10,6 +10,7 @@ Photos
   <div><img src="../images/portrait/livvy_lumley_2.jpg"></img></div>
   <div><img src="../images/landscape/louise_smile.jpg"></img></div>
   <div><img src="../images/landscape/gibside_livvy_kids.jpg"></img></div>
+  <div><img src="../images/portrait/louise_livvy_annfield.jpg"></img></div>
   <div><img src="../images/landscape/livvy_below.jpg"></img></div>
   <div><img src="../images/portrait/louise_through_strings_2.jpg"></img></div>
   <div><img src="../images/portrait/livvy_lumley.jpg"></img></div>

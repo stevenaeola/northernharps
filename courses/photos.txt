@@ -1,0 +1,16 @@
+
+<div class="slick_carousel">
+  <div><img src="images/2013brancepeth_sunset.jpg"></img></div>
+  <div><img src="images/2013group_teaching.jpg"></img></div>
+  <div><img src="images/2013food.jpg"></img></div>
+  <div><img src="images/2013castle_courtyard.jpg"></img></div>
+  <div><img src="images/2013music_session.jpg"></img></div>
+  <div><img src="images/2013bread.jpg"></img></div>
+  <div><img src="images/2013teaching_people.jpg"></img></div>
+  <div><img src="images/2013chapel.jpg"></img></div>
+  <div><img src="images/2013food_table.jpg"></img></div>
+  <div><img src="images/2013jen_and_louise.jpg"></img></div>
+  <div><img src="images/harps_brancepeth_chapel.jpg"></img></div>
+
+
+</div>
