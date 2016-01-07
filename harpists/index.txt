@@ -45,7 +45,7 @@ I was overjoyed with being able to have the ceremony outside and your music was 
 <hr/>
                 <img class="img-circle img-responsive img-center" src="../images/square/livvy_levers_square.jpg" alt="thank you cards">
                 <h2><a href="photos.php">Photographs</a></h2>
-<p><a href='photos.php'>See more photographs</a></p>
+<p><a href='photos.php'>See some photographs</a></p>
             </div>
 
 </div>
