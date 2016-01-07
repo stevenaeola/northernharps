@@ -12,7 +12,7 @@
                 <address>
                     <abbr title=‘Telephone’>t:</abbr> 07747 716268
                     <br>
-                    <abbr title="Email">e:</abbr> <a href=‘mailto:louise@northernharps.co.uk’>louise@northernharps.co.uk</a>
+                    <abbr title="Email">e:</abbr> <a href="mailto:louise@northernharps.co.uk">louise@northernharps.co.uk</a>
                     <br>
                     <abbr title="Facebook"><i class='fa fa-facebook-official'></i></abbr> <a href="https://www.facebook.com/Louise-Bradley-Harpist-356023861081971/">Louise Bradley - Harpist</a>
                 </address>

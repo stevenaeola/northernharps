@@ -17,7 +17,7 @@
                 <address>
                     <abbr title=‘Telephone’>t:</abbr> 07747 716268
                     <br>
-                    <abbr title="Email">e:</abbr> <a href=‘mailto:louise@northernharps.co.uk’>louise@northernharps.co.uk</a>
+                    <abbr title="Email">e:</abbr> <a href="mailto:louise@northernharps.co.uk">louise@northernharps.co.uk</a>
                     <br>
                     <abbr title="Facebook"><i class='fa fa-facebook-official'></i></abbr> <a href="https://www.facebook.com/Louise-Bradley-Harpist-356023861081971/">Louise Bradley - Harpist</a>
                 </address>
@@ -56,7 +56,8 @@
 <hr>
 <div class="col_sm_12">
 <iframe class="img-responsive center-block" src="https://www.youtube.com/embed/390YiE5U0vg" frameborder="0" allowfullscreen></iframe>
-
 </div>
+<div class="col_sm_12 center-block">Louise playing "Laura Bhissa" by <a href='http://www.alisonkinnaird.com/'>Alison Kinnaird</a> at <a href='http://www.lumleycastle.com/'>Lumley Castle</a></div>
+
 </div>
 
