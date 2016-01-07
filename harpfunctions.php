@@ -25,7 +25,7 @@ function pageTop($title){
     
   case "lessons":
     $page->banner="Lessons";
-    $page->imgs = ["harps_brancepeth_chapel_h400"];
+    $page->imgs = ["harps_brancepeth_chapel_h400.jpg"];
     break;
 
   case "harpists":
