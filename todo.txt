@@ -11,14 +11,13 @@ repertoire text no left padding on mobile
 
 *booking
 
-- test request booking on site
-
 * testimonials
 
-* repertoire: list titles, video and audio clips
+* repertoire: 
 - header image doesn't go to edge on mobile
 - after first set of video clips doesn't reach RH edge on mobile
 - navigator clashes with footer
+- sound clips don't work on mobiles
 
 * photos
 
@@ -31,5 +30,4 @@ music samples
 Courses
 ------
 
-- booking form server
 
