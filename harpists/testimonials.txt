@@ -2,7 +2,7 @@ Testimonials
 ============
 
 <blockquote  class='blockquote-reverse'><p>We wanted to write to you to express our thanks for playing on our wedding day. The music you played was absolutely stunning and truly made our wedding day even more special, so thank you. Our guests also commented on how lovely the harp sounded, especially during the ceremony. It has been really nice watching our wedding video back and once again being reminded of the gorgeous music you played. Many thanks once again.</p>
-<footer>Sarah & Nick Roberts</footer></blockquote>
+<footer>Sarah and Nick</footer></blockquote>
 
 <blockquote class='blockquote-reverse'><p>Dear Louise, Just a note to say thank you for playing so beautifully for Kristy + Michael’s wedding - they were really happy with the music.</p>
 <footer>Judy</footer>
@@ -21,3 +21,7 @@ a lot of my friends and family have commented on how it made the ceremony so rom
 
 <blockquote  class='blockquote-reverse'><p>A huge thank-you from us both for helping to make our day so special. Thank-you also for your quick thinking when the music [CD] stopped!! You are a star!</p>
 <footer>Roger + Gillian</footer></blockquote>
+
+<blockquote  class='blockquote-reverse'><p>Hi Louise, thank you for your beautiful and faultless repertoire, all of our guests said it was one of the highlights of their day! You created the perfect ambiance. I can only hope to hear you playing again soon!</p>
+<footer>Richard and Katherine</footer></blockquote>
+
