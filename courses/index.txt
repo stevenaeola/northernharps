@@ -8,11 +8,11 @@ Harp Course
            <figure class="pull-right"> <img class="featurette-image img-circle img-responsive pull-right" src="images/Wendy_Stewart_credit_Kim_Ayres_300.jpg" alt="Wendy Stewart (photo by Kim Ayres)">
 	   <figcaption><small>Photo by <a href='http://www.kimayres.co.uk/'>Kim Ayres</a></small></figcaption>
 	   </figure>
-            <h2 class="featurette-heading">6th-9th August 2016 Brancepeth Castle
+            <h2 class="featurette-heading">7th-10th August 2017 Brancepeth Castle
                 <span class="text-muted">with Wendy Stewart and Louise Bradley</span>
             </h2>
-            <p class="lead" markdown='1'>Northern Harps ran a four day clarsach course at Brancepeth Castle, Durham, led by Wendy Stewart with Louise Bradley on the 6th-9th August 2016 (Saturday to Tuesday). This was the ninth year we have run this course, and the fourth year that we have had the course at [Brancepeth Castle](http://en.wikipedia.org/wiki/Brancepeth_Castle).</p>
+            <p class="lead" markdown='1'>Northern Harps ran a four day clarsach course at Brancepeth Castle, Durham, led by Wendy Stewart with Louise Bradley on the 7th-10th August 2017 (Monday to Thursday). This will be the tenth year we have run this course, and the fourth year that we have had the course at [Brancepeth Castle](http://en.wikipedia.org/wiki/Brancepeth_Castle).</p>
 
-<p>Keep an eye out for the dates of the 2017 course</p>
+<p>Keep an eye out for booking details.</p>
 
 </div>
