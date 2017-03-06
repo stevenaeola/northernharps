@@ -5,7 +5,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; Northern Harps 2016 <a href='mailto:louise@northernharps.co.uk'>louise@northernharps.co.uk</a></p>
+                    <p>Copyright &copy; Northern Harps 2017 <a href='mailto:louise@northernharps.co.uk'>louise@northernharps.co.uk</a></p>
                 </div>
             </div>
             <!-- /.row -->
